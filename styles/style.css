@@ -166,8 +166,8 @@
 
 .table__cell {
   width: 250px;
-  list-style-type: none; 
-  padding-left: 0; 
+  list-style-type: none;
+  padding-left: 0;
   margin: 0;
 }
 
@@ -226,7 +226,6 @@
   margin-top: 70px;
 }
 
-/* не должно быть абсолюного */
 .feynman__link {
   line-height: 51px;
   font-size: 36px;
@@ -359,7 +358,7 @@
   font-size: 18px;
   font-weight: 300;
   margin: auto;
-  padding-left: 0; 
+  padding-left: 0;
   list-style-type: none;
 }
 

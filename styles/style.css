@@ -44,7 +44,7 @@
 .header__subtitle {
   font-size: 18px;
   line-height: 25px;
-  font-weight: 300;
+  font-weight: 400;
   position: absolute;
   bottom: 30px;
   left: 64px;
@@ -96,7 +96,7 @@
   width: 175px;
   line-height: 1.2;
   font-size: 18px;
-  font-weight: 300;
+  font-weight: 400;
   color:#2f80ed;
   margin: 0;
 }
@@ -112,14 +112,14 @@
 .two-columns__paragraph {
   line-height: 34px;
   font-size: 24px;
-  font-weight: 300;
+  font-weight: 400;
   margin: 0;
 }
 
 .two-columns__span-accent {
   line-height: 34px;
   font-size: 24px;
-  font-weight: 500;
+  font-weight: 600;
 }
 
 
@@ -133,7 +133,7 @@
 .section-title {
   line-height: 1.15;
   font-size: 60px;
-  font-weight: 500;
+  font-weight: 600;
   text-align: center;
   width: 60%;
   margin: 0;
@@ -144,7 +144,7 @@
 .section-subtitle {
   line-height: 34px;
   font-size: 24px;
-  font-weight: 300;
+  font-weight: 400;
   text-align: center;
   margin: auto;
   margin-top: 20px;
@@ -178,7 +178,7 @@
 .table__heading{ 
   line-height: 1.15;
   font-size: 24px;
-  font-weight: 500;
+  font-weight: 600;
   margin: auto;
 }
 
@@ -189,7 +189,7 @@
 .table__text {
   line-height: 1.2;
   font-size: 18px;
-  font-weight: 300;
+  font-weight: 400;
 }
 
 .table__text_theme_light {
@@ -212,7 +212,7 @@
   width: 648px;
   line-height: 1.15;
   font-size: 120px;
-  font-weight: 500;
+  font-weight: 600;
   text-align: center;
   margin: 0;
   margin-top: 100px;
@@ -221,7 +221,7 @@
 .feynman__subtitle {
   line-height: 51px;
   font-size: 36px;
-  font-weight: 300;
+  font-weight: 400;
   text-align: center;
   margin-top: 70px;
 }
@@ -230,7 +230,7 @@
   text-decoration: none;
   line-height: 51px;
   font-size: 36px;
-  font-weight: 300;
+  font-weight: 400;
   align-self: center;
   position: absolute;
   top: 50%;
@@ -340,7 +340,7 @@
 .footer__author {
   line-height: 25px;
   font-size: 18px;
-  font-weight: 300;
+  font-weight: 400;
   color: #fff;
   bottom: 0;
   margin: 15px 0;
@@ -349,7 +349,7 @@
 .footer__column-heading{
   line-height: 30px;
   font-size: 18px;
-  font-weight: 500;
+  font-weight: 600;
   margin-bottom: 20px;
   margin: 0;
 }
@@ -357,7 +357,7 @@
 .footer__column-links {
   line-height: 30px;
   font-size: 18px;
-  font-weight: 300;
+  font-weight: 400;
   margin: auto;
   padding-left: 0;
   list-style-type: none;

@@ -54,6 +54,7 @@
 }
 
 .header__link {
+  text-decoration: none;
   color: #2f80ed;
 
 }
@@ -227,6 +228,7 @@
 }
 
 .feynman__link {
+  text-decoration: none;
   line-height: 51px;
   font-size: 36px;
   font-weight: 300;

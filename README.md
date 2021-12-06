@@ -1,4 +1,5 @@
-# Yandex Practicum Project Work by @mtsoy123
+# Yandex Practicum Project Work 
+by @mtsoy123
 
 ## How to learn page
 Contatins several blocks of information about learning and cognition

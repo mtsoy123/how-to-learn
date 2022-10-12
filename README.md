@@ -1,11 +1,11 @@
 # How to Learn
 
-## Ссылка
+## Link
 https://how-to-learn-red.vercel.app
 
-## О проекте
-Приложение помогает ознакомить пользователей с основными концепциями обучения. Узнать что-то новое о процессе получения информации. Сайт содержит несколько блоков информации об обучении и познании. Блоки содержат интерактивные элементы, видео и изображения. Первый учебный проект, в котором на практике поработал с версткой. Проект организован по БЭМ, в верстке использовал HTML, CSS
+## About Project
+The application helps to familiarize users with the basic concepts of learning. Learn something new about the process of obtaining information. The site contains several blocks of information about learning and cognition. The blocks contain interactive elements, videos and images. The first training project in which I worked with the layout in practice. The project is organized by BEM, used HTML, CSS
 
-## Технологии
+## Tech Stack
 - HTML5
 - CSS3
